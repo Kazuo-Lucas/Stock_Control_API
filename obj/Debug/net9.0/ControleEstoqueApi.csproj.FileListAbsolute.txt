@@ -34,3 +34,4 @@ C:\Users\kazuo\OneDrive\Documentos\Projetos\ControleEstoqueApi\obj\Debug\net9.0\
 C:\Users\kazuo\OneDrive\Documentos\Projetos\ControleEstoqueApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\kazuo\OneDrive\Documentos\Projetos\ControleEstoqueApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\kazuo\OneDrive\Documentos\Projetos\ControleEstoqueApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kazuo\OneDrive\Documentos\Projetos\ControleEstoqueApi\obj\Debug\net9.0\ControleEstoqueApi.sourcelink.json

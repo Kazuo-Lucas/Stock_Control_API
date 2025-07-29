@@ -31,6 +31,13 @@ namespace MeuProjeto.Controllers
             return CreatedAtAction(nameof(GetProdutoPorID), new { id = novoProduto.Id }, novoProduto);
         }
 
+        [HttpPost]
+        public ActionResult CriarVarios([FromBody] List<Produto> novosProdutos)
+        {
+            produtos.AddRange(novosProdutos);
+            return Ok(novosProdutos);
+        }
+
         [HttpPut("{id}")]
         public ActionResult Atualizar(int id, [FromBody] Produto produtoAtualizado)
         {
